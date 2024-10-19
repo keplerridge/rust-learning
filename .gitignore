@@ -30,6 +30,7 @@ Cargo.lock
 # Dependency directories
 **/Cargo.lock
 **/cargo.lock
+**.cargo-lock
 
 # Rust-specific temporary files
 **/*.rs.bk
