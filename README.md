@@ -6,7 +6,7 @@ This project implements a quicksort function, just the basic one that everyone i
 
 Again, this software was just a chance for me to try Rust and to implement useful algorithms in it.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/URsfOfzbgAw)
 
 # Development Environment
 
