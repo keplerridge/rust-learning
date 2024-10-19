@@ -22,6 +22,7 @@ Cargo.lock
 *.exe
 *.d
 *.pdb
+*.bin
 
 # Coverage reports
 /coverage/
@@ -35,3 +36,6 @@ Cargo.lock
 
 # Environment files
 .env
+
+# Json files
+*.Json
