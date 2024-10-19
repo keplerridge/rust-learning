@@ -40,3 +40,6 @@ Cargo.lock
 
 # Json files
 *.Json
+
+*.tag
+*.lock
